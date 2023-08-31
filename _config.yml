@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah Bogen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "bogen_cropped.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate"
   location         : "Logan, UT"
   email            :
