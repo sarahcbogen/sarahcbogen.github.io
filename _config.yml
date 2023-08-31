@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Sarah Bogen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Sarah Bogen"
+description              : "My personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : @sarahcbogen
 facebook:
   username               :
   app_id                 :
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sarah Bogen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD Candidate"
+  location         : "Logan, UT"
   email            :
   links:
     - label: "Email"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:  "https://twitter.com/sarahcbogen"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
