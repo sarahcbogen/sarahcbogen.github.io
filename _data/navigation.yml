@@ -8,3 +8,5 @@ main:
     url: /improv/
   - title: "CV"
     url: /cv/
+  - title: "Contact"
+    url: /contact/
