@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Local Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "CV"
-    url: https://sarahcbogen.github.io/cv/
+  - title: "The CV"
+    url: https://sarahcbogen.github.io/pages/cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
