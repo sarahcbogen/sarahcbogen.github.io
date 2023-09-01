@@ -4,7 +4,7 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  -title: "Improv"
+  - title: "Improv"
     url: /improv/
   - title: "CV"
     url: /cv/
