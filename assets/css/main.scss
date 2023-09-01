@@ -7,12 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-@media (min-width: 160em) {
-  .sidebar__right {
-      width: 300px;
-      margin-right: -300px;
-      float: right;
-      position: sticky;
-  }
-}
