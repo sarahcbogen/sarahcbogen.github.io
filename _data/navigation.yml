@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  -title: "Improv"
+    url: /improv/
   - title: "CV"
     url: /cv/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
